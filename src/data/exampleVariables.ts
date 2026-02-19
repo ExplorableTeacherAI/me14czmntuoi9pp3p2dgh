@@ -211,7 +211,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         label: 'Wave Type Answer',
         description: 'Student answer for the wave type question',
         placeholder: '???',
-        correctAnswer: 'transverse',
+        correctAnswer: 'surface',
         options: ['transverse', 'longitudinal', 'surface'],
         color: '#00897B',
     },
