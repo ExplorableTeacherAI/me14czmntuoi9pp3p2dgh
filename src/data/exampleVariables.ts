@@ -176,7 +176,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         label: 'Quarter Circle Angle',
         description: 'Student answer for the quarter circle angle question',
         placeholder: '???',
-        correctAnswer: '90',
+        correctAnswer: '80',
         color: '#3B82F6',
     },
     waveUnit: {
