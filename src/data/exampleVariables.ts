@@ -303,7 +303,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         description: 'Radius of a circle or sphere',
         unit: 'm',
         min: 1,
-        max: 20,
+        max: 10,
         step: 0.5,
         color: '#3cc499',
     },
