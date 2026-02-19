@@ -533,9 +533,7 @@ const exampleBlocks: ReactElement[] = [
                     {...numberPropsFromDefinition(getExampleVariableInfo('animationSpeed'))}
                 />
                 . You can{" "}
-                <InlineTrigger id="trigger-speed-reset" varName="animationSpeed" value={10} color="#FDD835" bgColor="rgba(253, 216, 53, 0.15)" >
-                    reset it to 1
-                </InlineTrigger>{" "}
+                <InlineTrigger id="trigger-speed-reset" varName="animationSpeed" value={10} color="#FDD835" bgColor="rgba(253, 216, 53, 0.15)" >reset to 10</InlineTrigger>{" "}
                 or{" "}
                 <InlineTrigger id="trigger-speed-max" varName="animationSpeed" value={5}>
                     max it out
