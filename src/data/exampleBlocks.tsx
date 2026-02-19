@@ -354,7 +354,7 @@ const exampleBlocks: ReactElement[] = [
                 <InlineToggle
                     id="toggle-current-shape"
                     varName="currentShape"
-                    options={["triangle", "square", "pentagon", "hexagon"]}
+                    options={["triangle", "square", "pentagon"]}
                     {...togglePropsFromDefinition(getExampleVariableInfo('currentShape'))}
                 />
                 {" "}with equal sides. Click to cycle through the shapes!
