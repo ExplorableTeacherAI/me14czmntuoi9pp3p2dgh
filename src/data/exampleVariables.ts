@@ -202,7 +202,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         description: 'Student answer for the 2D shape question',
         placeholder: '???',
         correctAnswer: 'circle',
-        options: ['cube', 'circle', 'square', 'triangle'],
+        options: ['circle', 'square'],
         color: '#FDD835',
     },
     waveTypeAnswer: {
