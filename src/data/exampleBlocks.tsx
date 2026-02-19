@@ -612,7 +612,7 @@ const exampleBlocks: ReactElement[] = [
                 <InlineFormula
                     id="formula-circle-area"
                     latex="\clr{area}{A} = \clr{pi}{\pi} \clr{radius}{r}^2"
-                    colorMap={{ area: '#ef4444', pi: '#3b82f6', radius: '#3cc499' }}
+                    colorMap={{ 'area': '#ef4444', 'pi': '#ef4444', 'radius': '#D81B60' }}
                 />
                 {" "}where r is the radius.
             </EditableParagraph>
