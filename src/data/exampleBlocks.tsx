@@ -614,7 +614,7 @@ const exampleBlocks: ReactElement[] = [
                     latex="\clr{area}{A} = \clr{pi}{\pi} \clr{radius}{r}^2"
                     colorMap={{ 'area': '#ef4444', 'pi': '#ef4444', 'radius': '#D81B60' }}
                 />
-                {" "}where r is the radius.
+                {" "}where r is the radius. /
             </EditableParagraph>
         </Block>
     </FullWidthLayout>,
