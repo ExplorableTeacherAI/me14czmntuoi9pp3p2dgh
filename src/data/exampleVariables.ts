@@ -177,8 +177,9 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         description: 'Student answer for the quarter circle angle question',
         placeholder: '???',
         correctAnswer: '80',
-        color: '#3B82F6',
+        color: '#F57C00',
         correctAnswer: '80',
+        bgColor: 'rgba(245, 124, 0, 0.35)',
 },
     waveUnit: {
         defaultValue: '',
