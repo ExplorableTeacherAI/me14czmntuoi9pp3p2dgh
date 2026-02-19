@@ -203,7 +203,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         placeholder: '???',
         correctAnswer: 'circle',
         options: ['cube', 'circle', 'square', 'triangle'],
-        color: '#D81B60',
+        color: '#FDD835',
     },
     waveTypeAnswer: {
         defaultValue: '',
