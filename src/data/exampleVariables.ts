@@ -178,7 +178,8 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         placeholder: '???',
         correctAnswer: '80',
         color: '#3B82F6',
-    },
+        correctAnswer: '80',
+},
     waveUnit: {
         defaultValue: '',
         type: 'text',
