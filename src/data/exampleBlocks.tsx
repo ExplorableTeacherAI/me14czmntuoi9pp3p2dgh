@@ -404,7 +404,7 @@ const exampleBlocks: ReactElement[] = [
         <Block id="block-paragraph-tooltip-01" padding="sm">
             <EditableParagraph id="para-tooltip-circle" blockId="block-paragraph-tooltip-01">
                 Every point on a{" "}
-                <InlineTooltip id="tooltip-circle-def" tooltip="test">
+                <InlineTooltip id="tooltip-circle-def" tooltip="test" color="#FDD835" bgColor="rgba(253, 216, 53, 0.15)" >
                     circle
                 </InlineTooltip>
                 {" "}is the same distance from its center. This distance is called the{" "}
