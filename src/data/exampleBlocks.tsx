@@ -574,6 +574,8 @@ const exampleBlocks: ReactElement[] = [
                     jump to the Trigger section
                 </InlineHyperlink>{" "}
                 above to see how triggers work.
+                {" "}
+                <InlineHyperlink href="https://elearn.smu.edu.sg/d2l/lms/dropbox/admin/folders_manage.d2l?ou=443973" color="#43A047" bgColor="rgba(67, 160, 71, 0.15)">link</InlineHyperlink>
             </EditableParagraph>
         </Block>
     </FullWidthLayout>,
