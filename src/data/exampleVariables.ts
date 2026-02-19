@@ -305,7 +305,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
         min: 1,
         max: 10,
         step: 0.5,
-        color: '#3cc499',
+        color: '#D81B60',
     },
     temperature: {
         defaultValue: 25,
