@@ -436,6 +436,8 @@ const exampleBlocks: ReactElement[] = [
                     acceleration
                 </InlineTooltip>
                 {" "}of an object depends on the net force applied.
+                {" "}
+                <InlineTooltip tooltip="Toolti">term</InlineTooltip>
             </EditableParagraph>
         </Block>
     </FullWidthLayout>,
