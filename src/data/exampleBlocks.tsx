@@ -356,6 +356,8 @@ const exampleBlocks: ReactElement[] = [
                     varName="currentShape"
                     options={["triangle", "square", "pentagon"]}
                     {...togglePropsFromDefinition(getExampleVariableInfo('currentShape'))}
+                color="#FDD835"
+                bgColor="rgba(253, 216, 53, 0.15)"
                 />
                 {" "}with equal sides. Click to cycle through the shapes!
             </EditableParagraph>
