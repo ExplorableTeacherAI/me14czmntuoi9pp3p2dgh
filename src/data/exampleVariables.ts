@@ -297,7 +297,7 @@ export const exampleVariableDefinitions: Record<string, VariableDefinition> = {
     // NUMBER (continued) - radius, temperature, count, angle
     // ─────────────────────────────────────────
     radius: {
-        defaultValue: 5,
+        defaultValue: 1,
         type: 'number',
         label: 'Radius',
         description: 'Radius of a circle or sphere',
