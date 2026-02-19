@@ -613,7 +613,7 @@ const exampleBlocks: ReactElement[] = [
                     id="formula-circle-area"
                     latex="\clr{area}{A} = \clr{pi}{\pi} \clr{radius}{r}^2"
                     colorMap={{ 'area': '#ef4444', 'pi': '#ef4444', 'radius': '#D81B60' }}
-                />
+                 >
                 {" "}where r is the radius. /
             </EditableParagraph>
         </Block>
@@ -625,7 +625,7 @@ const exampleBlocks: ReactElement[] = [
                 Einstein's famous equation{" "}
                 <InlineFormula
                     id="formula-einstein"
-                    latex="\clr{energy}{E} = \clr{mass}{m}\clr{speed}{c}^2"
+                    latex="\clr{energy}{E} = \clr{mass}{m}\clr{speed}{c}^2 + 1"
                     colorMap={{ energy: '#f97316', mass: '#a855f7', speed: '#06b6d4' }}
                 />
                 {" "}shows the equivalence of mass and energy.
