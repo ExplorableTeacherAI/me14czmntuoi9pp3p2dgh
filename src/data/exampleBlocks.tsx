@@ -517,6 +517,8 @@ const exampleBlocks: ReactElement[] = [
             <EditableParagraph id="para-trigger-intro" blockId="block-trigger-intro">
                 InlineTrigger lets you set a variable to a specific value on click. Combine it with
                 InlineScrubbleNumber so students can explore a value and quickly snap it to key points.
+                {" "}
+                <InlineTrigger varName="acceleration" value={10} color="#F57C00" bgColor="rgba(245, 124, 0, 0.15)">triggerTEST</InlineTrigger>
             </EditableParagraph>
         </Block>
     </FullWidthLayout>,
